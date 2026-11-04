@@ -8,7 +8,7 @@ Code for all 20 problem statements of the Deep Learning practical, using Keras /
 | `2_CNN/` | 2.a–2.c: CNN on CIFAR-10, MNIST, Fashion MNIST, Sign Language MNIST | Cleaned up and tested |
 | `3_Autoencoders/` | 3.a–3.f: anomaly detection with autoencoders | 3.a corrected, 3.b newly written, 3.c–3.f from Notion |
 | `4_CBOW/` | 4.a–4.d: Word2Vec CBOW (classification, Twitter, text document, recommender) | From Notion |
-| `5_Transfer_Learning/` | 5.a–5.c: VGG16 transfer learning on Caltech-101, Intel, Fashion MNIST | Cleaned up |
+| `5_Transfer_Learning/` | 5.a–5.c: VGG16 transfer learning on Caltech-101, Intel, Fashion MNIST | Cleaned up. `5a_TL_lightweight.py` is a quick version for slow lab PCs (trains on a few batches only) |
 | `notion_original/` | The original Notion code for every problem, unmodified, with its problem statement on top | Reference |
 | `VIVA_NOTES.md` | The bugs that were fixed and likely viva questions | |
 
