@@ -1,0 +1,14 @@
+# datasets and model files (too large for git)
+*.csv
+*.txt
+!requirements.txt
+*.h5
+*.keras
+*.model
+*.npz
+*.tar
+*.zip
+LP IV Updated Datasets/
+mvtec_anomaly_detection/
+__pycache__/
+.ipynb_checkpoints/
